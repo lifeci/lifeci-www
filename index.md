@@ -4,7 +4,8 @@ Welcome to **LifeCI**.
 
 ### Subjects
 Expected content related to:
-<details><summary>DevOps</summary><p>
+<details><summary>DevOps</summary>
+<p>
 
 ```
 - Pipelines
@@ -14,20 +15,21 @@ Expected content related to:
     -  EKS
 ```
 
-</p></details>
+</p>
+</details>
 
-<details><summary>Clouds</summary><p>
+<details><summary>Clouds</summary>
+<p>
 
-```
 - AWS
 - Azure
-```
 
-</p></details>
+</p>
+</details>
 
 
 ## Agenda
-- template](./docs/template)
+- [template](./docs/template)
 
 ## Links
 - [Github Organization](https://github.com/lifeci)
