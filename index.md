@@ -7,13 +7,9 @@ Expected content related to:
 <details><summary>DevOps</summary>
 <p>
 
-```
-- Pipelines
-    -  infra
-    -  app
--  K8s
-    -  EKS
-```
+#Pipelines, #infra, #app
+
+#K8s, #EKS
 
 </p>
 </details>
@@ -21,15 +17,14 @@ Expected content related to:
 <details><summary>Clouds</summary>
 <p>
 
-- AWS
-- Azure
+ #AWS, #Azure
 
 </p>
 </details>
 
 
 ## Agenda
-- [template](./docs/template)
+- [template](./post/template)
 
 ## Links
 - [Github Organization](https://github.com/lifeci)
